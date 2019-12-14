@@ -1,1 +1,1 @@
-# StylesConference
+Итоговая работа по книге Шей Хоу "Уроки по HTML и CSS"
